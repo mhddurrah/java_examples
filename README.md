@@ -1,2 +1,2 @@
 # java_examples
-enable assertıon by -ea jvm option
+enable assertion by -ea jvm option
